@@ -21,11 +21,13 @@ public class MinMax {
 		min = max = nums[0];
 
 		for (int i = 0; i < 10; i++) {
-			if (nums[i] < min) min = nums[i];
-			if (nums[i] > max) max = nums[i];
+			if (nums[i] < min)
+				min = nums[i];
+			if (nums[i] > max)
+				max = nums[i];
 		}
-		
-		System.out.println("min and max: " + min +" "+max);
+
+		System.out.println("min and max: " + min + " " + max);
 	}
 
 }
