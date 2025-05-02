@@ -15,6 +15,7 @@ public class TwoD {
 				System.out.println(table[t][i] + " ");
 			}
 			System.out.println();
+
 		}
 	}
 

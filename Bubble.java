@@ -34,7 +34,7 @@ public class Bubble {
 		for (int i = 0; i < size; i++) {
 			System.out.println(" " + nums[i]);
 			System.out.println();
-		
+
 		}
 
 	}
