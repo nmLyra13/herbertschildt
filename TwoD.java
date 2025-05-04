@@ -5,7 +5,6 @@ public class TwoD {
 	public static void main(String[] args) {
 
 		// Demonstrativo de Array bidimensional
-
 		int t, i;
 		int table[][] = new int[3][4];
 
@@ -15,7 +14,6 @@ public class TwoD {
 				System.out.println(table[t][i] + " ");
 			}
 			System.out.println();
-
 		}
 	}
 

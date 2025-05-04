@@ -4,10 +4,12 @@ public class Bubble {
 
 	public static void main(String[] args) {
 
+		// Arrays de números para teste
 		int nums[] = { 99, -10, 100123, 18, -978, 5623, 463, -9, 287, 49 };
 		int a, b, t;
 		int size;
 
+		// tamanho
 		size = 10; // número de elementos a serem classificados;
 
 		// exibe o array original.
@@ -25,7 +27,6 @@ public class Bubble {
 					nums[b - 1] = nums[b];
 					nums[b] = t;
 				}
-
 			}
 		}
 
