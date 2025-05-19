@@ -18,7 +18,7 @@ public class SubStr {
 
 		String orgstr = "Java makes the web move";
 		// Java faz a web se mover"
-		// Constructs a substring. 
+		// Constructs a substring.
 		// this line creates a new string containing the desired
 		// substring
 		String substr = orgstr.substring(5, 18);
