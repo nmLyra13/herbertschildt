@@ -19,10 +19,10 @@ public class StrOps {
 	public static void main(String[] args) {
 
 		String str1 = "When it comes to web programinmg, java is #1";
-		String str2 = new String(str1);
+		// String str2 = new String(str1);
 		String str3 = "Java strings are powerful";
-		int result, idx;
-		char ch;
+		int result; //, idx;
+		//char ch;
 		System.out.println("Leght of str1: " + str1.length());
 		// displays one character at a time from str1.
 		// exibe um caractere de cada vez de str1.
