@@ -16,5 +16,4 @@ public class TwoD {
 			System.out.println();
 		}
 	}
-
 }
